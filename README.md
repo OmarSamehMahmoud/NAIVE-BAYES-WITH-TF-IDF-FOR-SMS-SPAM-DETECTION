@@ -5,7 +5,6 @@ arXiv: https://arxiv.org/abs/2502.11014
 
 ## Execution
 pip install -r requirements.txt
-Run notebook cells sequentially. Fully CPU-compatible.
 
 ## Reproducibility
 - Random seed: 42
